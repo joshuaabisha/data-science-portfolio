@@ -16,6 +16,6 @@
 * The longer the total nights booked, the higher the percentage of booking being canceled, also City Hotel type has more steeper trend compared to Resort Hotel <br>![image](https://user-images.githubusercontent.com/99066590/159166963-a41dc9c3-932c-4814-805e-8d3cd6339556.png)<br>
 
 
-# Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
+## Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
 The higher the lead time (around 270-390 days, around 1 year), the higher the cancellation rate (above 60%). Meanwhile, the lowest cancellation rate is within 1 month of lead time <br>![image](https://user-images.githubusercontent.com/99066590/159166971-d45c09ff-276d-4a38-a8a7-c25ab91cbf2c.png)<br>
 
